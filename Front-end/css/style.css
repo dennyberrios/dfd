@@ -1,0 +1,99 @@
+body{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: auto;
+    height: 60px;
+    background-color: rgb(194, 47, 155);
+    display:flex;
+
+}
+.title{
+    margin-left: 530px;
+    margin-top: -13px;
+    font-size:60px;
+    font-weight: bold;
+}
+#container{
+    width: auto;
+    height:517px;
+}
+.login{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 0 5px;
+    padding: 30px;
+    margin: 78px
+}
+form{
+    color: white;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.664);
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+#visitante{
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.664);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    padding: 15px
+}
+.visit{
+    text-decoration: none;
+}
+p{
+    width: 300px;
+    color:white;
+    text-align: center;
+}
+footer{
+    width: auto;
+    height: 80px;
+    background-color: rgb(194, 47, 155);
+}
+.fotoLivro{
+    width: 150px
+}
+.fotoBoneco{
+    width: 100px;
+    margin-bottom: 20px;
+}
+#acesso{
+    margin-bottom: 30px;
+}
+#Enviar{
+    width:100%;
+    padding:5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+}
+.douto{
+    color: white;
+    margin-top:-100px;
+    margin-bottom: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+.cadastro{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #3385dd;
+    letter-spacing: 0.50px;
+}
