@@ -72,7 +72,7 @@ legend{
 }
 #inicio{
     padding: 8px;
-    border-radius: 15px;
+    border-radius: 5px;
     background-image: linear-gradient(to right, rgb(0, 92, 197), rgb(90, 20, 220));
     border: none;
     color: white;
@@ -81,5 +81,5 @@ legend{
     letter-spacing: 0.2px;
 }
 #inicio:hover{
-    background-image: linear-gradient(to right, rgb(0, 80, 172), rgb(80, 19, 195));
+    background-image: linear-gradient(to right, rgb(0, 80, 172), rgb(80, 40, 153));
 }
